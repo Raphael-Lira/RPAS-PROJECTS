@@ -1,4 +1,4 @@
-<h1 alling='center'> Repositório de Projetos RPA </h1>
+<h1 aling='center'> Repositório de Projetos RPA </h1>
 Bem-vindo ao meu repositório de projetos RPA! Aqui você encontrará uma coleção de várias pastas, cada uma contendo projetos RPA únicos. Este README fornecerá informações sobre como navegar pelo repositório e aproveitar ao máximo os projetos disponíveis.
 
 Sobre RPA
